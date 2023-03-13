@@ -63,6 +63,22 @@ function solution(number){
    * Final Projet for lesson "Intro to web-development" : [Jewelery shop](https://github.com/NecomaV/Final)
    * Mobile app written in Kotlin for lesson "Androind Development" : [SDU Portal Mobile](https://github.com/Abjik/SDUPortalMobile)
    * Django project for "BackEnd development Into" : [Online Shop](https://github.com/Abjik/backtest)
+   * My first project : [Asics shop](https://github.com/NecomaV/Mini-project)
+   * My MidTerm Project: [MidTerm Project](https://github.com/NecomaV/MidTemProject) 
+
+***
+## Education 
+  * Bachalor of "Information systems" at SDU (2024 graduate)
+  * Udemy 
+    + JavaScript and React ( In progress... )
+
+***
+## Language 
+  * English B2 - Upper Intermadiate ( IELTS 6.0 ) 
+  * Kazakh C1  - Native
+  * Russian C1 - Native
+  * Turkish A1 - Beginner 
+
 
 
 
