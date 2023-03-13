@@ -1,4 +1,4 @@
 # rsschool-cv
 CV - for rsschool 
 
-https://NecomaV.github.io/rsschool-cv/cv
+https://github.com/NecomaV/rsschool-cv/blob/gh-pages/%D1%81v.md
